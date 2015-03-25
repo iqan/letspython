@@ -1,10 +1,7 @@
-Read me file
-----
-initial commit
-----
-Let's Get Started
-----
------------------------------------------
-About
-----
-This repo is for basic codes written in python language.
+## Small Python codes repo
+
+#### This repo contains some codes while getting started with python.
+
+## Details of codes
+
+* Key Logger
